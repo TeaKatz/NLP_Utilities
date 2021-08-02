@@ -1,18 +1,18 @@
 [submodule "NLP_Datasets"]
-	path = NLP_Datasets
+	path = src/NLP_Datasets
 	url = https://github.com/TeaKatz/NLP_Datasets
 [submodule "NLP_Losses"]
-	path = NLP_Losses
+	path = src/NLP_Losses
 	url = https://github.com/TeaKatz/NLP_Losses
 [submodule "NLP_Metrics"]
-	path = NLP_Metrics
+	path = src/NLP_Metrics
 	url = https://github.com/TeaKatz/NLP_Metrics
 [submodule "NLP_Models"]
-	path = NLP_Models
+	path = src/NLP_Models
 	url = https://github.com/TeaKatz/NLP_Models
 [submodule "NLP_ModelTrainers"]
-	path = NLP_ModelTrainers
+	path = src/NLP_ModelTrainers
 	url = https://github.com/TeaKatz/NLP_ModelTrainers
 [submodule "NLP_Preprocessors"]
-	path = NLP_Preprocessors
+	path = src/NLP_Preprocessors
 	url = https://github.com/TeaKatz/NLP_Preprocessors
