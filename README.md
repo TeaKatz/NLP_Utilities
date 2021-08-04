@@ -15,7 +15,7 @@ A repository contains utility modules for doing NLP research projects.
     git submodule init
     git submodule update
 
-2.Install this repository to your python packages
+2.Install packages
 
     python install.py
 
