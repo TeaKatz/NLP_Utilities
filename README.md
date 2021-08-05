@@ -8,6 +8,10 @@ A repository contains utility modules for doing NLP research projects.
 - [NLP_Preprocessors](https://github.com/TeaKatz/NLP_Preprocessors/tree/main)
 
 ## Requirements
+- NumPy
+- Pandas
+- PyTorch (1.9.0 Recommended)
+- Joblib
 
 ## Installation
 1.Clone this repository (and its submodules) to your desired directory
@@ -25,3 +29,6 @@ A repository contains utility modules for doing NLP research projects.
 
 ## Uninstallation
     python uninstall.py
+
+## Example
+See examples for using this library at [notebook]()
