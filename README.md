@@ -31,4 +31,4 @@ A repository contains utility modules for doing NLP research projects.
     python uninstall.py
 
 ## Example
-See examples for using this library at [notebook]()
+See an example for using this library at [example.ipynb]()
