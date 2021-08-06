@@ -25,8 +25,6 @@ A repository contains utility modules for doing NLP research projects.
 
     python install.py
 
-3.Download [datasets](https://drive.google.com/drive/folders/1DixwXun7Of9iHDvG3kVzoomPRxfb_O9k) and place it in *NLP_Datasets/*
-
 ## Uninstallation
     python uninstall.py
 
